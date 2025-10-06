@@ -1,1 +1,120 @@
-Test
+#This License pack was requested by: PTC Host ID 7C-ED-8D-27-19-8E
+#                 PTC License Pack
+#         IMPORTANT SOFTWARE LICENSING INFORMATION
+#              Retain this for your records.
+#Customer        : HCL AMERICA INC
+#Contact         : Makiko Kawakami
+#Email           : mkawakami@ptc.com
+#Customer Number : 431501
+#
+#**************************************** Summary Table *******************************************************
+#                       PTC Host ID 7C-ED-8D-27-19-8E
+#FeatureName            Qty        Product                            Release   Type    Expiration
+#*************************************************************************************************************
+
+#PROE_DesignPrm          2     Creo Design Premium                      Creo 12.0 Flt Lic 07-Oct-2026 
+
+#**************************************** Detail Table *********************************************************************************************************************************************
+#
+#Product Id      Product Description                    Product Package Id       Product Package Description        Qty      End Date      Feature Name                           Feature Version
+#***************************************************************************************************************************************************************************************************
+#ENG-4518-P-     Creo Design Premium                      SPN-4518-F-      Creo Design Premium (no PLM included)     2       2026-10-07    PROE_DesignPrm                            Creo 12.0   
+
+#--------------------------------------------------------
+#START: License File for HOST ID 7C-ED-8D-27-19-8E
+#--------------------------------------------------------
+SERVER windchill-nc PTC_HOSTID=7C-ED-8D-27-19-8E 7788
+DAEMON ptc_d __PTCD_PATH__
+
+#################### FLOATING License  #####################
+#Serviceable = Creo Design Premium
+#Feature Name = PROE_DesignPrm
+#Feature Version = 43.0
+#Number of Copies = 2
+#Expiration Date = 07-Oct-2026
+#Optional Modules = ASSEMBLY
+#Optional Modules = INTERFACE for CATIA
+#Optional Modules = CDT
+#Optional Modules = COMPOSITE
+#Optional Modules = NOTEBOOK
+#Optional Modules = DETAIL
+#Optional Modules = INTERFACE for CATIA II w/ATB License
+#Optional Modules = PIPING
+#Optional Modules = DATA for PDGS
+#Optional Modules = SCAN-TOOLS
+#Optional Modules = CASTING
+#Optional Modules = LEGACY
+#Optional Modules = INTERFACE for STEP
+#Optional Modules = PHOTORENDER
+#Optional Modules = WELDING
+#Optional Modules = DIEFACE
+#Optional Modules = ECAD
+#Optional Modules = FEATURE
+#Optional Modules = ModelCHECK License
+#Optional Modules = GDT Enterprise
+#Optional Modules = 3 Axis Mold Tooling
+#Optional Modules = NC-MILL
+#Optional Modules = NC-TURN
+#Optional Modules = NC-WEDM
+#Optional Modules = INTERFACE
+#Optional Modules = 4DNavigator License
+#Optional Modules = LIBRARYACCESS
+#Optional Modules = Expert Moldbase
+#Optional Modules = NC-CHECK
+#Optional Modules = REPORT
+#Optional Modules = SURFACE
+#Optional Modules = PLOT
+#Optional Modules = Creo Unite
+#Optional Modules = Mold Analysis Lite
+#Optional Modules = Design Exploration
+#Optional Modules = Creo Render Studio
+#Optional Modules = Collaboration Extension Inventor
+#Optional Modules = Interactive Surface Design Extension Module
+#Optional Modules = PROCESS for ASSEMBLIES
+#Optional Modules = PROCESS for MFG
+#Optional Modules = WEB PUBLISH (> OR = 18.0)
+#Optional Modules = Web.Link
+#Optional Modules = NC-SHEETMETAL
+#Optional Modules = SHEETMETAL-DESIGN
+#Optional Modules = MOLDESIGN II
+#Optional Modules = INTERFACE for CADDS 5
+#Optional Modules = Behavioral Modeling License
+#Optional Modules = Update Control Layout
+#Optional Modules = PTC Creo Solidworks Collaboration Extension
+#Optional Modules = Intelligent Fastener Extension
+#Optional Modules = Creo Layout 3D Integration
+#Optional Modules = Expert Machining
+#Optional Modules = CABLING
+#Optional Modules = HARNESS-MFG
+#Optional Modules = Import Data Doctor
+#Optional Modules = Design Animation
+#Optional Modules = ASSY_PERFORMANCE
+#Optional Modules = Mechanism_Dynamics
+#Optional Modules = Advanced Framework
+#Optional Modules = GDT Advisor
+#Optional Modules = Interface for UG
+#Optional Modules = Interface for Catia V5
+#Optional Modules = Interface for Catia V5 Advanced
+#Optional Modules = Tolerance Analysis powered by CETOL
+#Optional Modules = Additive Manufacturing
+#Optional Modules = Manikin
+#Optional Modules = Manikin Analysis
+#Optional Modules = Legacy Data Migration
+#Optional Modules = Creo Freestyle Design
+#Optional Modules = Creo Flexible Modeling
+#Optional Modules = Interface CADDS 5 Win
+#Optional Modules = Creo Layout Module
+#Optional Modules = Creo Options Modeler Basic
+#Optional Modules = Mechanism Design License
+#Optional Modules = Creo Flow Analysis
+#Optional Modules = Engineering Notebook
+INCREMENT PROE_DesignPrm ptc_d 43.0 07-oct-2026 2 \
+	5020F0804F34F4A33FC9 VENDOR_STRING="VSVER=2.0 \
+	LO=(0,3,6,7,10,17,32,34,40,45,48,51,52,55,56,57,59,61,62,63,66,67,69,71,73,91,92,94,97,104,106,108,115,116,125,126,127,128,131,133,135,137,158,163,188,191,192,194,213,219,220,251,275,277,278,282,291,292,324,325,326,329,331,332,336,341,346,347,354,357,361,370,371,376,377,406)" \
+	SUPERSEDE DUP_GROUP=UHD vendor_info="VIVER=1.0 \
+	EXTERNAL_NAME=" ISSUER=PTC ISSUED=06-Oct-2025 \
+	NOTICE="HCL_AMERICA_INC, 431501" SN=431501 \
+	SIGN2="19EC 7F6F C6BA 6851 D7B8 7FFE F3D9 F20D DEE6 \
+	E144 B79C D4F4 7FE5 213A 1936 0902 88EF 2E7E C5EB \
+	2C97 C5E6 BD52 E9BF E477 E645 969C 8905 4300 6656 \
+	DB7F"
